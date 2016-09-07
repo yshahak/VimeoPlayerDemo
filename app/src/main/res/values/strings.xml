@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Vimeo Player</string>
+    <string name="hint_search">Search for video</string>
+    <string name="vimeo_video_placeholder" translatable="false">Views:%1$d\nLikes:%2$d</string>
+    <string name="client_id">a9f0a34c28db401317819037c9c8ae3601b011f4</string>
+    <string name="client_secret">C+bMDFPFNzsNTYnt9lkwUu1dQKxnLGg/imGiSjlrEbcj4mwZ0ZoDWz7HAw6bA3UlAm14/ud7YemwGD2mz66IqJJOrfUbtFGIvgpHWVsVDlop8yCE8yML2yPXI1b6RUKd</string>
+</resources>
